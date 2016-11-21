@@ -1,0 +1,16 @@
+@charset "utf-8";
+body { background:url(../img/background.jpg); background-repeat: no-repeat; background-attachment: fixed; background-position: center; background-size:100%;}
+td {text-align:center; color:#E00003; font-family:"KG Blank Space Sketch"; font-size:15px; background:#FBE7A1; border:double; border-color:#FF0004; border-width:2px;}
+.cpaneltitle { text-align:center; color:#000000; font-family:"KG Blank Space Sketch"; font-size:15px}
+.floatleft { float:left; width:250px;}
+.centrarimagen { text-align:center;}
+div.leftpanel { float:left;width: 30%;}
+div.rightpanel { float:right; width: 20%;}
+div.nave {float:left;width: 40%; text-align:center}  
+div.imgcry { float:left; width:250px;}
+ul.menuVert1 {width: 220px; list-style: none; text-align: center; text-shadow: 2px 2px 4px red; padding:0; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif}
+ul.menuVert1 li {padding: 10px 0px; border: groove blue;
+border-width: 6px 6px 0px 6px; background-color: #F7FE2E;}
+ul.menuVert1 li:last-child { border-bottom: groove blue; border-bottom-width: 6px;}
+ul.menuVert1 li a:link, ul.menuVert1 li a:visited { text-decoration: none; color:black;}
+ul.menuVert1 li:hover {background-color: #FFD700;}
